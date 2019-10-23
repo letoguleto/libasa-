@@ -1,0 +1,131 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tower Defence on Tower Defence </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>/libasa-/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 31 Dec 2016 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Анализ предметной области</title>
+      <link>/libasa-/post/domain_analysis/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 UTC</pubDate>
+      
+      <guid>/libasa-/post/domain_analysis/</guid>
+      <description>&lt;p&gt;Создание игр сейчас весьма актуально.В данной сфере от программиста требуются
+весьма большие требования в понимании проекта над которым он работает.Во многих
+проектах программист должен знать многое о многих областях - физика,геометрия,
+идеальное знания синтаксиса языка на котором создается проект,различные
+парадигмы программирования,особенности создания и работы с 2D и 3D движками,
+и если это инди проект , то даже подача контента и его разнообразия.В данной
+области программист может проявить себя наиболее сильным способом , развить и
+усовершенстовать свои навыки.&lt;/p&gt;
+
+&lt;p&gt; Так же стоит отметить что игровая индустрия это так же весьма прибыльное дело,
+даже смелые проекты сделанные одним программистом порой приносят весьма большие
+дивиденды .Весьма популярны среди многих сообществ игры на логику , к ним и 
+относится жанр &#34;Tower Defence&#34; , который совпадает с названием моего программы,
+зачастую это так же стратегии - головоломки , где нужно распределить ресурсы и 
+построить защитные башни таким образом, что бы не дать противнику прорваться.&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Так же в данной предметной области можно выбрать огромное множество путей реализации
+своего программного продукта , придумать множество уровней , компанию для
+прохождения ,а в дальнейшем достижения и таблицу рекордов с непроходимыми
+уровнями , все это в совокупности дает огромное поле для разнообразия
+своего программного продукта ,а ведь это самое важное ,сохранить интерес клиентов
+как можно дольше&amp;lt;&amp;gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой Бланк</title>
+      <link>/libasa-/post/blanck/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 UTC</pubDate>
+      
+      <guid>/libasa-/post/blanck/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/libasa-/images/fr.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Средства реализации</title>
+      <link>/libasa-/post/implementation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 UTC</pubDate>
+      
+      <guid>/libasa-/post/implementation/</guid>
+      <description>&lt;p&gt;Язык программирования для реализации данной курсовой работы был выбран Python,
+по многим причинам.
+&lt;ul&gt;
+&lt;li&gt;Понимание и принятие данного языка самим программистом&lt;/li&gt;
+&lt;li&gt;Удобность и читаемость кода&lt;/li&gt;
+&lt;li&gt;Реализация ООП&lt;/li&gt;
+&lt;li&gt;Пакет Pygame который позволяет создавать крутые игры!&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt; Так же хочу добавить немного про ООП , без данной парадигмы программирования
+практически невозможно реализовать в принципе , то над чем я работаю.
+Игра создается с нуля , с самого 2D движка и примитивной логики,далее развиваются
+более сложные конструкции.&lt;/p&gt;
+  &lt;p&gt;Казалось бы класс это всего лишь структура данных , но это решение в разы упрощает
+разработку многих проектов,на данный момент , для меня это любимый способ реализовывать
+почти все программные продукты .&lt;/p&gt;
+  &lt;p&gt;Так же стоит отметить и сторонние программы которые мне так же помогают, в своем
+игровом движке я так же уже реализовал анимацию объектов , следовательно я использую
+огромное количество меняющихся спрайтов , все их нужно отдельно вырезать и обрабатывать,
+а так же рисовать многие объекты самому , все это невозможно без Photoshop,
+ранее не имея этого ПО я пользовался онлайн программами для вырезания фона,
+но это было весьма примитивно и долго в использовании с учетом того что нужно
+создать огромное количество спрайтов , на данный момент в моей программе используется
+более 40 спрайтов,при двух анимированных объектов&lt;/p&gt;
+  &lt;p&gt;Практически весь программный продукт создавался с нулся с использованием только
+выше перечисленных программных продуктов , логика взаимодействия классов , геометрия,
+логика работы самих классов , анимация , некоторые спрайты , все создавалось мной
+без дополнительных источников , поскольку недопустимо использовать чей то труд и
+выставлять его за свой,из того что я использовал была только документация Python
+по ООП (основы синтаксиса , казусы и интересные моменты), а так же некоторые спрайты
+из свободных ресурсов. &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/libasa-/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>/libasa-/about/</guid>
+      <description>
+
+&lt;p&gt;Dark Simplicity is a minimalist oriented theme with a dark color scheme for &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;supports-the-following-built-in-functions-from-hugo&#34;&gt;Supports the following built-in functions from Hugo:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Menus, either add menu = &amp;ldquo;top&amp;rdquo; in the page parameters or add the proper parameters for each menu entry in your config.toml.&lt;/li&gt;
+&lt;li&gt;Pagination for posts type (paginates at five posts).&lt;/li&gt;
+&lt;li&gt;Taxonomy in the form of tags.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;supports-the-following-parameters&#34;&gt;Supports the following parameters:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;copyright, it supports safeHtml, so you can use HTML without problems.  Defaults to &amp;copy; CurrentYear. All rights reserved.&lt;/li&gt;
+&lt;li&gt;description, puts a tagline like this: | sample tag line&lt;/li&gt;
+&lt;li&gt;google_analytics_id, put your google analytics id if you use it.&lt;/li&gt;
+&lt;li&gt;disqus_shortname, put your shortname for your disqus account if you use it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;notable-features&#34;&gt;Notable Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Utilizes PostCSS Plugins including Font Magician, and CSSNano for Generating the CSS and Grid. Includes the original gulp config and css files so you can make modifications using the variables for easily changing colors used.&lt;/li&gt;
+&lt;li&gt;Uses some Google fonts.&lt;/li&gt;
+&lt;li&gt;Minimalist look and feel.&lt;/li&gt;
+&lt;li&gt;Supports Google Analytics.&lt;/li&gt;
+&lt;li&gt;Supports Disqus Comments.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

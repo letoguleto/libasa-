@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>documents on Tower Defence</title>
+    <link>/libasa-/tags/documents/</link>
+    <description>Recent content in documents on Tower Defence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/libasa-/tags/documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Мой Бланк</title>
+      <link>/libasa-/post/blanck/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/post/blanck/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

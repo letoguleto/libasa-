@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tower Defence</title>
+    <link>/libasa-/post/</link>
+    <description>Recent content in Posts on Tower Defence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/libasa-/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Анализ предметной области</title>
+      <link>/libasa-/post/domain_analysis/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/post/domain_analysis/</guid>
+      <description>Создание игр сейчас весьма актуально.В данной сфере от программиста требуются весьма большие требования в понимании проекта над которым он работает.Во многих проектах программист должен знать многое о многих областях - физика,геометрия, идеальное знания синтаксиса языка на котором создается проект,различные парадигмы программирования,особенности создания и работы с 2D и 3D движками, и если это инди проект , то даже подача контента и его разнообразия.В данной области программист может проявить себя наиболее сильным способом , развить и усовершенстовать свои навыки.</description>
+    </item>
+    
+    <item>
+      <title>Мой Бланк</title>
+      <link>/libasa-/post/blanck/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/post/blanck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Средства реализации</title>
+      <link>/libasa-/post/implementation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/post/implementation/</guid>
+      <description>Язык программирования для реализации данной курсовой работы был выбран Python, по многим причинам.  Понимание и принятие данного языка самим программистом Удобность и читаемость кода Реализация ООП Пакет Pygame который позволяет создавать крутые игры!   Так же хочу добавить немного про ООП , без данной парадигмы программирования практически невозможно реализовать в принципе , то над чем я работаю. Игра создается с нуля , с самого 2D движка и примитивной логики,далее развиваются более сложные конструкции.</description>
+    </item>
+    
+  </channel>
+</rss>

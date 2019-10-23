@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>implementation on Tower Defence</title>
+    <link>/libasa-/tags/implementation/</link>
+    <description>Recent content in implementation on Tower Defence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/libasa-/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Средства реализации</title>
+      <link>/libasa-/post/implementation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/post/implementation/</guid>
+      <description>Язык программирования для реализации данной курсовой работы был выбран Python, по многим причинам.  Понимание и принятие данного языка самим программистом Удобность и читаемость кода Реализация ООП Пакет Pygame который позволяет создавать крутые игры!   Так же хочу добавить немного про ООП , без данной парадигмы программирования практически невозможно реализовать в принципе , то над чем я работаю. Игра создается с нуля , с самого 2D движка и примитивной логики,далее развиваются более сложные конструкции.</description>
+    </item>
+    
+  </channel>
+</rss>

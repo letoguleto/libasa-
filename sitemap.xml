@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/libasa-/tags/documents/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/tags/implementation/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/post/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/tags/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/tags/theory/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/post/domain_analysis/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/post/blanck/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/post/implementation/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/libasa-/about/</loc>
+  </url>
+  
+</urlset>

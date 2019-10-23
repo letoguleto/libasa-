@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tower Defence</title>
+    <link>/libasa-/tags/</link>
+    <description>Recent content in Tags on Tower Defence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/libasa-/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>documents</title>
+      <link>/libasa-/tags/documents/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/tags/documents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implementation</title>
+      <link>/libasa-/tags/implementation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/tags/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>/libasa-/tags/theory/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/libasa-/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
